@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  ios_localise_demo
+
+  Created by Yuu Ogasa on 2017/11/01.
+  Copyright © 2017年 SundayCarpenter. All rights reserved.
+ 
+ ## フォーマット：
+ "キーとなる文字" = "表示したい文字（とフォーマット）";
+ 
+ ※文末のセミコロンを忘れるとエラー発生
+ 
+ ### フォーマット文字列
+ 
+ String    %@
+ Int    %d
+ Double    %f
+ 
+ 参考：https://developer.apple.com/library/ios/documentation/CoreFoundation/Conceptual/CFStrings/formatSpecifiers.html#//apple_ref/doc/uid/TP40004265
+ 
+*/
+
+"welcome" = "ハローワールド！";
+"name" = "あなたの名前は %@ です。";
+"numbers" = "壱: %d, 弐: %d";
+"words" = "弐: %2$@, 壱: %1$@";

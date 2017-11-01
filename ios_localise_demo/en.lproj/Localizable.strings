@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  ios_localise_demo
+
+  Created by Yuu Ogasa on 2017/11/01.
+  Copyright © 2017年 SundayCarpenter. All rights reserved.
+*/
+
+"welcome" = "Hello, World!";
+"name" = "Your name is %@.";
+"numbers" = "one: %d, two: %d";
+"words" = "one: %1$@, two: %2$@";
