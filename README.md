@@ -60,7 +60,7 @@ print(String(format: NSLocalizedString("words", comment: ""), "Apple", "Mac"))
 ```
 
 ### Results
-In Japanese environment,
+In Japanese environment
 
 ```
 ハローワールド！
@@ -69,7 +69,7 @@ In Japanese environment,
 弐: Mac, 壱: Apple
 ```
          
-Others,
+Others
 
 ```
 Hello, World!
