@@ -5,7 +5,7 @@ For example, add Japanese String file.
 
 ## Procedure
 ### Add Localizable.string file
-Add new file
+In new file menu, select [String File]
 
 ![](https://github.com/sahara-ooga/ios_localize_demo/raw/image/images/スクリーンショット%202017-11-01%2013.20.22.png)
 
@@ -21,7 +21,7 @@ In project menu, push "+" button
 
 ![](https://github.com/sahara-ooga/ios_localize_demo/raw/image/images/スクリーンショット%202017-11-01%2013.22.31.png)
 
-select only "Localizable.strings"
+Select only "Localizable.strings"
 
 ![](https://github.com/sahara-ooga/ios_localize_demo/raw/image/images/スクリーンショット%202017-11-01%2013.23.02.png)
 
