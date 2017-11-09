@@ -1,15 +1,15 @@
 # ios localize demo
-localization sample using NSLocalizedString
+Localization sample using NSLocalizedString
 
-For example, add Japanese file.
+For example, add Japanese String file.
 
-## procedure
+## Procedure
 ### Add Localizable.string file
-add new file
+Add new file
 
 ![](https://github.com/sahara-ooga/ios_localize_demo/raw/image/images/スクリーンショット%202017-11-01%2013.20.22.png)
 
-naming "Localizable.strings".
+Naming "Localizable.strings".
 
 ![](https://github.com/sahara-ooga/ios_localize_demo/raw/image/images/スクリーンショット%202017-11-01%2013.20.59.png)
 
