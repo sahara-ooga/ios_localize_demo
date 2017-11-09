@@ -37,7 +37,7 @@ Add phrases.
 ```
 //Localizable.strings(English)
 "welcome" = "Hello, World!";
-"name" = "Your name is %@.";
+"name" = "Your name is %@.";		//need an argument
 "numbers" = "one: %d, two: %d";
 "words" = "one: %1$@, two: %2$@";
 ```
@@ -78,5 +78,15 @@ one: 10, two: 20
 one: Apple, two: Mac
 ```
 
+### Use `Value` argument
+
+```
+//when "hogehoge" key is not in Localizable.strings
+NSLocalizedString("hogehoge", tableName: nil, 
+						value: "aaaa", comment: "comment")
+ // => aaaa
+```
+
 ## Reference
-https://qiita.com/Sim_progra/items/c9b04377dfa1425085c3
+- https://developer.apple.com/documentation/foundation/nslocalizedstring
+- https://qiita.com/Sim_progra/items/c9b04377dfa1425085c3
